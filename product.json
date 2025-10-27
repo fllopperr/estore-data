@@ -234,6 +234,810 @@
       "Подсветка": "RGB",
       "Интерфейс": "USB-C",
       "Корпус": "Алюминий"
+    },
+  {
+    "id": "cm-011",
+    "name": "Compact Camera Z",
+    "slug": "compact-camera-z",
+    "price": 720,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 44,
+    "shortDescription": "Компактная камера для качественной съёмки в путешествиях.",
+    "description": "Матрица 1\", зум 5x, стабилизация, Wi-Fi, NFC, поворотный экран, 4K видео.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/camera-compact.png"
+    ],
+    "categories": ["Фото"],
+    "tags": ["4k", "zoom", "wifi"],
+    "specs": {
+      "Матрица": "1\"",
+      "Зум": "5x",
+      "Видео": "4K 30fps",
+      "Экран": "3\" поворотный"
+    }
+  },
+  {
+    "id": "dslr-012",
+    "name": "DSLR Pro 2000D",
+    "slug": "dslr-pro-2000d",
+    "price": 1500,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 112,
+    "shortDescription": "Зеркальная камера для начинающих фотографов.",
+    "description": "24 Мп, объектив 18-55 мм, Wi-Fi, NFC, экран 3\", Full HD видео.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/camera-dslr.png"
+    ],
+    "categories": ["Фото"],
+    "tags": ["dslr", "wifi", "beginner"],
+    "specs": {
+      "Матрица": "24 Мп APS-C",
+      "Объектив": "18-55 мм",
+      "Видео": "Full HD",
+      "Экран": "3\""
+    }
+  },
+  {
+    "id": "ssd-013",
+    "name": "SSD Ultra 1TB",
+    "slug": "ssd-ultra-1tb",
+    "price": 110,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 256,
+    "shortDescription": "Высокоскоростной SSD для игр и работы.",
+    "description": "NVMe PCIe 4.0, скорость до 5000 МБ/с, гарантия 5 лет.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/ssd.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["nvme", "pcie4", "fast"],
+    "specs": {
+      "Объём": "1 ТБ",
+      "Интерфейс": "NVMe PCIe 4.0",
+      "Скорость чтения": "5000 МБ/с",
+      "Гарантия": "5 лет"
+    }
+  },
+  {
+    "id": "ram-014",
+    "name": "DDR5 RAM 32GB",
+    "slug": "ddr5-ram-32gb",
+    "price": 180,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 89,
+    "shortDescription": "Оперативная память для игровых ПК и рабочих станций.",
+    "description": "32 ГБ DDR5, 5600 МГц, радиатор охлаждения, низкое энергопотребление.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/ram.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["ddr5", "gaming", "performance"],
+    "specs": {
+      "Объём": "32 ГБ",
+      "Тип": "DDR5",
+      "Частота": "5600 МГц",
+      "Тайминги": "CL40"
+    }
+  },
+  {
+    "id": "mb-015",
+    "name": "Motherboard B760",
+    "slug": "motherboard-b760",
+    "price": 220,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 67,
+    "shortDescription": "Материнская плата для процессоров Intel 12-14 поколения.",
+    "description": "Socket LGA 1700, 4 слота DDR5, 3 слота M.2, Wi-Fi 6, 2.5G LAN.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/motherboard.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["lga1700", "wifi6", "ddr5"],
+    "specs": {
+      "Сокет": "LGA 1700",
+      "Чипсет": "Intel B760",
+      "Слоты RAM": "4× DDR5",
+      "Сеть": "Wi-Fi 6, 2.5G LAN"
+    }
+  },
+  {
+    "id": "ps-016",
+    "name": "Power Supply 750W",
+    "slug": "power-supply-750w",
+    "price": 130,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 143,
+    "shortDescription": "Надёжный блок питания с сертификатом 80 Plus Gold.",
+    "description": "750 Вт, 80 Plus Gold, модульные кабели, тихая работа, защита от КЗ.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/powersupply.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["80plus-gold", "modular", "quiet"],
+    "specs": {
+      "Мощность": "750 Вт",
+      "Сертификат": "80 Plus Gold",
+      "Кабели": "Модульные",
+      "Охлаждение": "120 мм вентилятор"
+    }
+  },
+  {
+    "id": "gc-017",
+    "name": "Graphics Card RTX 4070",
+    "slug": "graphics-card-rtx-4070",
+    "price": 850,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 198,
+    "shortDescription": "Мощная видеокарта для игр в 4K и работы с графикой.",
+    "description": "12 ГБ GDDR6X, DLSS 3, трассировка лучей, 3× DisplayPort, HDMI 2.1.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/gpu.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["rtx", "gaming", "4k"],
+    "specs": {
+      "Память": "12 ГБ GDDR6X",
+      "Разъёмы": "3× DP, 1× HDMI 2.1",
+      "Питание": "1× 16-pin",
+      "Рекомендуемый БП": "650 Вт"
+    }
+  },
+  {
+    "id": "case-018",
+    "name": "Gaming Case Neo",
+    "slug": "gaming-case-neo",
+    "price": 95,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.4,
+    "reviewsCount": 76,
+    "shortDescription": "Стильный корпус для игрового ПК с прозрачной боковой панелью.",
+    "description": "ATX, 4 предустановленных RGB-вентилятора, стеклянная панель, USB 3.0.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/case.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["atx", "rgb", "gaming"],
+    "specs": {
+      "Форм-фактор": "ATX",
+      "Вентиляторы": "4× RGB 120 мм",
+      "Панель": "Стеклянная",
+      "Порты": "2× USB 3.0, Audio"
+    }
+  },
+  {
+    "id": "cool-019",
+    "name": "CPU Cooler Air",
+    "slug": "cpu-cooler-air",
+    "price": 65,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 54,
+    "shortDescription": "Эффективный башенный кулер для процессоров.",
+    "description": "Медные теплотрубки, 120 мм вентилятор, поддержка сокетов AMD/Intel.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/cooler.png"
+    ],
+    "categories": ["Комплектующие"],
+    "tags": ["air-cooler", "quiet", "amd-intel"],
+    "specs": {
+      "Тип": "Башенный",
+      "Вентилятор": "120 мм",
+      "Сокеты": "AM5, LGA 1700, AM4",
+      "Шум": "≤ 25 дБ"
+    }
+  },
+  {
+    "id": "mon-020",
+    "name": "Monitor 27\" 4K",
+    "slug": "monitor-27-4k",
+    "price": 480,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 132,
+    "shortDescription": "Монитор с высоким разрешением для работы и творчества.",
+    "description": "IPS 4K, 60 Гц, HDR10, порты HDMI/DisplayPort, регулировка по высоте.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/monitor-4k.png"
+    ],
+    "categories": ["Мониторы"],
+    "tags": ["4k", "ips", "hdr"],
+    "specs": {
+      "Диагональ": "27\"",
+      "Разрешение": "3840×2160 (4K)",
+      "Матрица": "IPS",
+      "Порты": "2× HDMI, 1× DP"
+    }
+  },
+  {
+    "id": "mon-g-021",
+    "name": "Gaming Monitor 27\" QHD",
+    "slug": "gaming-monitor-27-qhd",
+    "price": 520,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 187,
+    "shortDescription": "Игровой монитор с высокой частотой обновления.",
+    "description": "IPS QHD, 165 Гц, 1 мс, AMD FreeSync, HDR400, низкие рамки.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/monitor-gaming.png"
+    ],
+    "categories": ["Мониторы"],
+    "tags": ["gaming", "165hz", "freesync"],
+    "specs": {
+      "Диагональ": "27\"",
+      "Разрешение": "2560×1440 (QHD)",
+      "Частота": "165 Гц",
+      "Отклик": "1 мс"
+    }
+  },
+  {
+    "id": "desk-022",
+    "name": "Gaming Desk Pro",
+    "slug": "gaming-desk-pro",
+    "price": 300,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 43,
+    "shortDescription": "Эргономичный игровой стол с местом для всего.",
+    "description": "Деревянная столешница, металлические ножки, полка для аксессуаров, держатель для наушников.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/desk.png"
+    ],
+    "categories": ["Мебель"],
+    "tags": ["gaming", "desk", "ergonomic"],
+    "specs": {
+      "Размеры": "140×70×75 см",
+      "Материал столешницы": "ЛДСП",
+      "Цвет": "Чёрный",
+      "Регулировка высоты": "Нет"
+    }
+  },
+  {
+    "id": "chair-023",
+    "name": "Gaming Chair Thunder",
+    "slug": "gaming-chair-thunder",
+    "price": 400,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 91,
+    "shortDescription": "Комфортное игровое кресло для длительных сессий.",
+    "description": "Эргономичная спинка, подушки из пены с эффектом памяти, регулировка высоты и наклона.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/chair.png"
+    ],
+    "categories": ["Мебель"],
+    "tags": ["gaming", "chair", "ergonomic"],
+    "specs": {
+      "Материал": "Искусственная кожа",
+      "Регулировки": "Высота, наклон",
+      "Подлокотники": "4D",
+      "Макс. нагрузка": "150 кг"
+    }
+  },
+  {
+    "id": "router-024",
+    "name": "Wi-Fi Router AX6000",
+    "slug": "wi-fi-router-ax6000",
+    "price": 250,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 78,
+    "shortDescription": "Мощный маршрутизатор Wi-Fi 6 для большого дома.",
+    "description": "Двухдиапазонный, 8 потоков, порт 2.5G WAN, MU-MIMO, родительский контроль.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/router.png"
+    ],
+    "categories": ["Сеть"],
+    "tags": ["wifi6", "mu-mimo", "gigabit"],
+    "specs": {
+      "Стандарт": "Wi-Fi 6 (AX)",
+      "Скорость": "6000 Мбит/с",
+      "Порты": "1× 2.5G WAN, 4× Gigabit LAN",
+      "Антенны": "8 встроенных"
+    }
+  },
+  {
+    "id": "nas-025",
+    "name": "NAS Drive 4-Bay",
+    "slug": "nas-drive-4-bay",
+    "price": 600,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.4,
+    "reviewsCount": 32,
+    "shortDescription": "Сетевое хранилище для дома и малого офиса.",
+    "description": "4 отсека для HDD, процессор Intel, 4 ГБ RAM, 2× 2.5G LAN, поддержка RAID.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/nas.png"
+    ],
+    "categories": ["Сеть"],
+    "tags": ["nas", "storage", "raid"],
+    "specs": {
+      "Отсеки": "4× 3.5\" SATA",
+      "Память": "4 ГБ DDR4",
+      "Порты": "2× 2.5G Ethernet",
+      "ОС": "Synology DSM"
+    }
+  },
+  {
+    "id": "ups-026",
+    "name": "UPS 1500VA",
+    "slug": "ups-1500va",
+    "price": 280,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 55,
+    "shortDescription": "Источник бесперебойного питания для защиты оборудования.",
+    "description": "1500 ВА, 10 розеток, LCD-дисплей, защита от перенапряжения, программное управление.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/ups.png"
+    ],
+    "categories": ["Сеть"],
+    "tags": ["ups", "backup", "protection"],
+    "specs": {
+      "Мощность": "1500 ВА / 900 Вт",
+      "Время работы": "До 30 мин (нагрузка 50%)",
+      "Розетки": "10",
+      "Интерфейс": "USB"
+    }
+  },
+  {
+    "id": "dock-027",
+    "name": "USB-C Docking Station",
+    "slug": "usb-c-docking-station",
+    "price": 120,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 67,
+    "shortDescription": "Док-станция для ноутбука с множеством портов.",
+    "description": "2× HDMI, 4× USB 3.0, Gigabit Ethernet, слот для SD/MicroSD, питание 100 Вт.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/dock.png"
+    ],
+    "categories": ["Периферия"],
+    "tags": ["usb-c", "dock", "laptop"],
+    "specs": {
+      "Интерфейс": "USB-C",
+      "Видео выходы": "2× HDMI (4K@60Hz)",
+      "Порты": "4× USB 3.0, 1× Gigabit Ethernet",
+      "Питание": "100 Вт PD"
+    }
+  },
+  {
+    "id": "webcam-028",
+    "name": "Webcam 4K Pro",
+    "slug": "webcam-4k-pro",
+    "price": 140,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 88,
+    "shortDescription": "Веб-камера с высоким разрешением для чётких видео-звонков.",
+    "description": "4K Ultra HD, автофокус, шумоподавляющий микрофон, крепление на монитор.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/webcam.png"
+    ],
+    "categories": ["Периферия"],
+    "tags": ["4k", "webcam", "conference"],
+    "specs": {
+      "Разрешение": "4K Ultra HD",
+      "Микрофон": "Стерео, шумоподавление",
+      "Крепление": "На монитор/штатив",
+      "Интерфейс": "USB-C"
+    }
+  },
+  {
+    "id": "mic-029",
+    "name": "USB Microphone Stream",
+    "slug": "usb-microphone-stream",
+    "price": 160,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 102,
+    "shortDescription": "Студийный USB-микрофон для стриминга и записи.",
+    "description": "Конденсаторный, кардиоидная направленность, подставка-антивибрация, plug&play.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/mic.png"
+    ],
+    "categories": ["Аудио"],
+    "tags": ["usb-mic", "streaming", "condenser"],
+    "specs": {
+      "Тип": "Конденсаторный",
+      "Направленность": "Кардиоидная",
+      "Частотный диапазон": "20 Гц – 20 кГц",
+      "Разъём": "USB-C"
+    }
+  },
+  {
+    "id": "dock-030",
+    "name": "Laptop Stand Alu",
+    "slug": "laptop-stand-alu",
+    "price": 45,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.4,
+    "reviewsCount": 39,
+    "shortDescription": "Алюминиевая подставка для ноутбука для лучшей эргономики.",
+    "description": "Регулировка высоты и угла наклона, алюминиевая конструкция, портативная.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/stand-laptop.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["laptop", "stand", "ergonomic"],
+    "specs": {
+      "Материал": "Алюминий",
+      "Регулировка": "Высота, угол наклона",
+      "Макс. нагрузка": "8 кг",
+      "Вес": "600 г"
+    }
+  },
+  {
+    "id": "pad-031",
+    "name": "Gaming Mouse Pad XL",
+    "slug": "gaming-mouse-pad-xl",
+    "price": 25,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.3,
+    "reviewsCount": 124,
+    "shortDescription": "Большой коврик для мыши с прошитыми краями.",
+    "description": "Размер 900×400 мм, прорезиненная основа, стойкая к истиранию поверхность.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/mousepad.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["mousepad", "gaming", "xl"],
+    "specs": {
+      "Размер": "900×400×3 мм",
+      "Материал поверхности": "Ткань",
+      "Основа": "Резиновая",
+      "Край": "Прошитый"
+    }
+  },
+  {
+    "id": "hub-032",
+    "name": "USB Hub 7-in-1",
+    "slug": "usb-hub-7-in-1",
+    "price": 35,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.2,
+    "reviewsCount": 156,
+    "shortDescription": "Компактный USB-хаб для расширения возможностей ноутбука.",
+    "description": "3× USB 3.0, HDMI, SD/MicroSD, USB-C PD, алюминиевый корпус.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/usb-hub.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["usb-hub", "portable", "adapter"],
+    "specs": {
+      "Порты": "3× USB 3.0, 1× HDMI, 1× USB-C PD",
+      "Слоты": "SD, MicroSD",
+      "Корпус": "Алюминий",
+      "Длина кабеля": "15 см"
+    }
+  },
+  {
+    "id": "ssd-ext-033",
+    "name": "External SSD 2TB",
+    "slug": "external-ssd-2tb",
+    "price": 200,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.9,
+    "reviewsCount": 201,
+    "shortDescription": "Внешний SSD для быстрого переноса данных.",
+    "description": "Скорость до 1050 МБ/с, защита от ударов, пыли и воды (IP65), USB 3.2 Gen 2.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/ssd-external.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["ssd", "external", "fast"],
+    "specs": {
+      "Объём": "2 ТБ",
+      "Интерфейс": "USB 3.2 Gen 2",
+      "Скорость": "1050 МБ/с",
+      "Защита": "IP65"
+    }
+  },
+  {
+    "id": "hdd-ext-034",
+    "name": "External HDD 5TB",
+    "slug": "external-hdd-5tb",
+    "price": 140,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 178,
+    "shortDescription": "Внешний жёсткий диск для хранения больших объёмов данных.",
+    "description": "USB 3.0, автоматическое резервное копирование, совместимость с ПК и Mac.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/hdd-external.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["hdd", "storage", "backup"],
+    "specs": {
+      "Объём": "5 ТБ",
+      "Интерфейс": "USB 3.0",
+      "Скорость": "140 МБ/с",
+      "Питание": "От USB"
+    }
+  },
+  {
+    "id": "phone-case-035",
+    "name": "Phone Case Tough",
+    "slug": "phone-case-tough",
+    "price": 20,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.4,
+    "reviewsCount": 265,
+    "shortDescription": "Прочный чехол для защиты смартфона от ударов и царапин.",
+    "description": "Двухслойная защита, усиленные углы, прозрачный дизайн.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/phone-case.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["case", "protection", "phone"],
+    "specs": {
+      "Материал": "Поликарбонат + TPU",
+      "Защита": "MIL-STD-810G",
+      "Доступ к портам": "Полный",
+      "Цвет": "Прозрачный"
+    }
+  },
+  {
+    "id": "cable-036",
+    "name": "USB-C Cable 100W",
+    "slug": "usb-c-cable-100w",
+    "price": 15,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 342,
+    "shortDescription": "Прочный кабель для быстрой зарядки и передачи данных.",
+    "description": "Поддержка 100 Вт Power Delivery, передача данных до 480 Мбит/с, нейлоновая оплётка.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/cable.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["usb-c", "cable", "charging"],
+    "specs": {
+      "Длина": "2 м",
+      "Мощность": "100 Вт",
+      "Данные": "USB 2.0 (480 Мбит/с)",
+      "Коннекторы": "USB-C — USB-C"
+    }
+  },
+  {
+    "id": "charger-037",
+    "name": "GaN Charger 65W",
+    "slug": "gan-charger-65w",
+    "price": 50,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.7,
+    "reviewsCount": 189,
+    "shortDescription": "Компактное зарядное устройство с технологией GaN.",
+    "description": "2× USB-C, 1× USB-A, зарядка ноутбука, смартфона и других устройств одновременно.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/charger.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["gan", "charger", "fast-charging"],
+    "specs": {
+      "Мощность": "65 Вт",
+      "Порты": "2× USB-C, 1× USB-A",
+      "Технология": "GaN",
+      "Вес": "110 г"
+    }
+  },
+  {
+    "id": "powerbank-038",
+    "name": "Power Bank 20000mAh",
+    "slug": "power-bank-20000mah",
+    "price": 60,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.8,
+    "reviewsCount": 297,
+    "shortDescription": "Ёмкий power bank для зарядки устройств в дороге.",
+    "description": "2× USB-A, 1× USB-C (PD 18 Вт), индикатор уровня заряда, защита от перегрева.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/powerbank.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["powerbank", "portable", "charging"],
+    "specs": {
+      "Ёмкость": "20000 мА·ч",
+      "Выходная мощность": "18 Вт",
+      "Порты": "2× USB-A, 1× USB-C",
+      "Вход": "USB-C"
+    }
+  },
+  {
+    "id": "light-039",
+    "name": "LED Desk Lamp",
+    "slug": "led-desk-lamp",
+    "price": 40,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 73,
+    "shortDescription": "Энергоэффективная светодиодная настольная лампа.",
+    "description": "Регулировка яркости и цветовой температуры, сенсорное управление, гибкая гусиная шея.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/lamp.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["led", "lamp", "desk"],
+    "specs": {
+      "Температура света": "2700K-6500K",
+      "Управление": "Сенсорное",
+      "Питание": "USB",
+      "Гибкость": "Гусиная шея"
+    }
+  },
+  {
+    "id": "lock-040",
+    "name": "Laptop Lock",
+    "slug": "laptop-lock",
+    "price": 25,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.1,
+    "reviewsCount": 41,
+    "shortDescription": "Защитный трос для ноутбука от кражи.",
+    "description": "Стальной трос, комбинационный замок, совместимость с разъёмом Kensington.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/lock.png"
+    ],
+    "categories": ["Аксессуары"],
+    "tags": ["lock", "security", "laptop"],
+    "specs": {
+      "Длина троса": "1.5 м",
+      "Тип замка": "Комбинационный",
+      "Материал": "Сталь",
+      "Совместимость": "Kensington Slot"
+    }
+  },
+  {
+    "id": "vr-041",
+    "name": "VR Headset Pro",
+    "slug": "vr-headset-pro",
+    "price": 700,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.3,
+    "reviewsCount": 58,
+    "shortDescription": "Виртуальная реальность для игр и симуляций.",
+    "description": "Два LCD-экрана 2K, 120 Гц, 6DoF, контроллеры, PC VR и автономный режим.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/vr.png"
+    ],
+    "categories": ["Гаджеты"],
+    "tags": ["vr", "gaming", "6dof"],
+    "specs": {
+      "Экраны": "2× LCD 2K",
+      "Частота": "120 Гц",
+      "Отслеживание": "6DoF",
+      "Платформы": "PC, Автономный"
+    }
+  },
+  {
+    "id": "drone-042",
+    "name": "Drone Mini Fly",
+    "slug": "drone-mini-fly",
+    "price": 350,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.4,
+    "reviewsCount": 62,
+    "shortDescription": "Компактный дрон с камерой для аэросъёмки.",
+    "description": "Камера 4K, стабилизация, GPS, время полёта 30 минут, управление со смартфона.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/drone.png"
+    ],
+    "categories": ["Гаджеты"],
+    "tags": ["drone", "4k", "gps"],
+    "specs": {
+      "Камера": "4K @ 30fps",
+      "Стабилизация": "3-осевая",
+      "Время полёта": "30 мин",
+      "Дальность": "8 км"
+    }
+  },
+  {
+    "id": "smart-home-043",
+    "name": "Smart Home Hub",
+    "slug": "smart-home-hub",
+    "price": 120,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.5,
+    "reviewsCount": 47,
+    "shortDescription": "Центр управления для умного дома.",
+    "description": "Поддержка Zigbee, Z-Wave, Wi-Fi, голосовое управление, интеграция с популярными платформами.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/smarthome.png"
+    ],
+    "categories": ["Гаджеты"],
+    "tags": ["smart-home", "hub", "zigbee"],
+    "specs": {
+      "Протоколы": "Zigbee, Z-Wave, Wi-Fi",
+      "Управление": "Голосовое, приложение",
+      "Питание": "От сети",
+      "Интеграции": "Google Assistant, Alexa"
+    }
+  },
+  {
+    "id": "scale-044",
+    "name": "Smart Scale X",
+    "slug": "smart-scale-x",
+    "price": 80,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.2,
+    "reviewsCount": 85,
+    "shortDescription": "Умные весы с анализом состава тела.",
+    "description": "Измерение веса, % жира, мышечной массы, воды, синхронизация по Bluetooth.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/scale.png"
+    ],
+    "categories": ["Гаджеты"],
+    "tags": ["scale", "fitness", "bluetooth"],
+    "specs": {
+      "Измеряемые параметры": "13",
+      "Синхронизация": "Bluetooth",
+      "Пользователи": "Неограниченно",
+      "Питание": "4× AAA"
+    }
+  },
+  {
+    "id": "bike-045",
+    "name": "Smart Bike Computer",
+    "slug": "smart-bike-computer",
+    "price": 150,
+    "currency": "RUB",
+    "inStock": true,
+    "rating": 4.6,
+    "reviewsCount": 33,
+    "shortDescription": "Компьютер для велосипеда с GPS и сенсорным экраном.",
+    "description": "Экран 2.7\", GPS/GLONASS, пульсометр, синхронизация с Strava, время работы 15 ч.",
+    "images": [
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/bikecomp.png"
+    ],
+    "categories": ["Гаджеты"],
+    "tags": ["bike", "gps", "fitness"],
+    "specs": {
+      "Экран": "2.7\" цветной",
+      "Навигация": "GPS, GLONASS",
+      "Водозащита": "IPX7",
+      "Время работы": "15 ч"
     }
   }
 ]
