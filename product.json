@@ -363,7 +363,7 @@
     "shortDescription": "Надёжный блок питания с сертификатом 80 Plus Gold.",
     "description": "750 Вт, 80 Plus Gold, модульные кабели, тихая работа, защита от КЗ.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/powersupply.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/power-supply.jpeg"
     ],
     "categories": ["Комплектующие"],
     "tags": ["80plus-gold", "modular", "quiet"],
@@ -547,7 +547,7 @@
     "shortDescription": "Мощный маршрутизатор Wi-Fi 6 для большого дома.",
     "description": "Двухдиапазонный, 8 потоков, порт 2.5G WAN, MU-MIMO, родительский контроль.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/router.peg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/router.jpeg"
     ],
     "categories": ["Сеть"],
     "tags": ["wifi6", "mu-mimo", "gigabit"],
@@ -708,7 +708,7 @@
     "shortDescription": "Большой коврик для мыши с прошитыми краями.",
     "description": "Размер 900×400 мм, прорезиненная основа, стойкая к истиранию поверхность.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/mousepad.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/mouse-pad.jpeg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["mousepad", "gaming", "xl"],
@@ -823,7 +823,7 @@
     "shortDescription": "Прочный кабель для быстрой зарядки и передачи данных.",
     "description": "Поддержка 100 Вт Power Delivery, передача данных до 480 Мбит/с, нейлоновая оплётка.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/cable.png"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/cabel.png"
     ],
     "categories": ["Аксессуары"],
     "tags": ["usb-c", "cable", "charging"],
