@@ -248,7 +248,7 @@
     "shortDescription": "Компактная камера для качественной съёмки в путешествиях.",
     "description": "Матрица 1\", зум 5x, стабилизация, Wi-Fi, NFC, поворотный экран, 4K видео.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/camera-compact.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/camera-compact.jpg"
     ],
     "categories": ["Фото"],
     "tags": ["4k", "zoom", "wifi"],
@@ -271,7 +271,7 @@
     "shortDescription": "Зеркальная камера для начинающих фотографов.",
     "description": "24 Мп, объектив 18-55 мм, Wi-Fi, NFC, экран 3\", Full HD видео.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/camera-dslr.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/camera-dslr.jpg"
     ],
     "categories": ["Фото"],
     "tags": ["dslr", "wifi", "beginner"],
@@ -340,7 +340,7 @@
     "shortDescription": "Материнская плата для процессоров Intel 12-14 поколения.",
     "description": "Socket LGA 1700, 4 слота DDR5, 3 слота M.2, Wi-Fi 6, 2.5G LAN.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/motherboard.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/motherboard.jpg"
     ],
     "categories": ["Комплектующие"],
     "tags": ["lga1700", "wifi6", "ddr5"],
@@ -363,7 +363,7 @@
     "shortDescription": "Надёжный блок питания с сертификатом 80 Plus Gold.",
     "description": "750 Вт, 80 Plus Gold, модульные кабели, тихая работа, защита от КЗ.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/power-supply.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/power-supply.jpg"
     ],
     "categories": ["Комплектующие"],
     "tags": ["80plus-gold", "modular", "quiet"],
@@ -409,7 +409,7 @@
     "shortDescription": "Стильный корпус для игрового ПК с прозрачной боковой панелью.",
     "description": "ATX, 4 предустановленных RGB-вентилятора, стеклянная панель, USB 3.0.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/case.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/case.jpg"
     ],
     "categories": ["Комплектующие"],
     "tags": ["atx", "rgb", "gaming"],
@@ -455,7 +455,7 @@
     "shortDescription": "Монитор с высоким разрешением для работы и творчества.",
     "description": "IPS 4K, 60 Гц, HDR10, порты HDMI/DisplayPort, регулировка по высоте.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/monitor-4k.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/monitor-4k.jpg"
     ],
     "categories": ["Мониторы"],
     "tags": ["4k", "ips", "hdr"],
@@ -478,7 +478,7 @@
     "shortDescription": "Игровой монитор с высокой частотой обновления.",
     "description": "IPS QHD, 165 Гц, 1 мс, AMD FreeSync, HDR400, низкие рамки.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/monitor-gaming.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/monitor-gaming.jpg"
     ],
     "categories": ["Мониторы"],
     "tags": ["gaming", "165hz", "freesync"],
@@ -524,7 +524,7 @@
     "shortDescription": "Комфортное игровое кресло для длительных сессий.",
     "description": "Эргономичная спинка, подушки из пены с эффектом памяти, регулировка высоты и наклона.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/chair.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/chair.jpg"
     ],
     "categories": ["Мебель"],
     "tags": ["gaming", "chair", "ergonomic"],
@@ -547,7 +547,7 @@
     "shortDescription": "Мощный маршрутизатор Wi-Fi 6 для большого дома.",
     "description": "Двухдиапазонный, 8 потоков, порт 2.5G WAN, MU-MIMO, родительский контроль.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/router.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/router.jpg"
     ],
     "categories": ["Сеть"],
     "tags": ["wifi6", "mu-mimo", "gigabit"],
@@ -616,7 +616,7 @@
     "shortDescription": "Док-станция для ноутбука с множеством портов.",
     "description": "2× HDMI, 4× USB 3.0, Gigabit Ethernet, слот для SD/MicroSD, питание 100 Вт.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/dock.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/dock.jpg"
     ],
     "categories": ["Периферия"],
     "tags": ["usb-c", "dock", "laptop"],
@@ -639,7 +639,7 @@
     "shortDescription": "Веб-камера с высоким разрешением для чётких видео-звонков.",
     "description": "4K Ultra HD, автофокус, шумоподавляющий микрофон, крепление на монитор.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/webcam.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/webcam.jpg"
     ],
     "categories": ["Периферия"],
     "tags": ["4k", "webcam", "conference"],
@@ -708,7 +708,7 @@
     "shortDescription": "Большой коврик для мыши с прошитыми краями.",
     "description": "Размер 900×400 мм, прорезиненная основа, стойкая к истиранию поверхность.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/mouse-pad.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/mouse-pad.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["mousepad", "gaming", "xl"],
@@ -731,7 +731,7 @@
     "shortDescription": "Компактный USB-хаб для расширения возможностей ноутбука.",
     "description": "3× USB 3.0, HDMI, SD/MicroSD, USB-C PD, алюминиевый корпус.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/usb-hub.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/usb-hub.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["usb-hub", "portable", "adapter"],
@@ -754,7 +754,7 @@
     "shortDescription": "Внешний SSD для быстрого переноса данных.",
     "description": "Скорость до 1050 МБ/с, защита от ударов, пыли и воды (IP65), USB 3.2 Gen 2.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/ssd-external.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/ssd-external.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["ssd", "external", "fast"],
@@ -777,7 +777,7 @@
     "shortDescription": "Внешний жёсткий диск для хранения больших объёмов данных.",
     "description": "USB 3.0, автоматическое резервное копирование, совместимость с ПК и Mac.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/hdd-external.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/hdd-external.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["hdd", "storage", "backup"],
@@ -800,7 +800,7 @@
     "shortDescription": "Прочный чехол для защиты смартфона от ударов и царапин.",
     "description": "Двухслойная защита, усиленные углы, прозрачный дизайн.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/phone-case.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/phone-case.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["case", "protection", "phone"],
@@ -846,7 +846,7 @@
     "shortDescription": "Компактное зарядное устройство с технологией GaN.",
     "description": "2× USB-C, 1× USB-A, зарядка ноутбука, смартфона и других устройств одновременно.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/charger.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/charger.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["gan", "charger", "fast-charging"],
@@ -869,7 +869,7 @@
     "shortDescription": "Ёмкий power bank для зарядки устройств в дороге.",
     "description": "2× USB-A, 1× USB-C (PD 18 Вт), индикатор уровня заряда, защита от перегрева.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/powerbank.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/powerbank.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["powerbank", "portable", "charging"],
@@ -892,7 +892,7 @@
     "shortDescription": "Энергоэффективная светодиодная настольная лампа.",
     "description": "Регулировка яркости и цветовой температуры, сенсорное управление, гибкая гусиная шея.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/lamp.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/lamp.jpg"
     ],
     "categories": ["Аксессуары"],
     "tags": ["led", "lamp", "desk"],
@@ -938,7 +938,7 @@
     "shortDescription": "Виртуальная реальность для игр и симуляций.",
     "description": "Два LCD-экрана 2K, 120 Гц, 6DoF, контроллеры, PC VR и автономный режим.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/vr.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/vr.jpg"
     ],
     "categories": ["Гаджеты"],
     "tags": ["vr", "gaming", "6dof"],
@@ -961,7 +961,7 @@
     "shortDescription": "Компактный дрон с камерой для аэросъёмки.",
     "description": "Камера 4K, стабилизация, GPS, время полёта 30 минут, управление со смартфона.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/drone.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/drone.jpg"
     ],
     "categories": ["Гаджеты"],
     "tags": ["drone", "4k", "gps"],
@@ -984,7 +984,7 @@
     "shortDescription": "Центр управления для умного дома.",
     "description": "Поддержка Zigbee, Z-Wave, Wi-Fi, голосовое управление, интеграция с популярными платформами.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/smarthome.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/smarthome.jpg"
     ],
     "categories": ["Гаджеты"],
     "tags": ["smart-home", "hub", "zigbee"],
@@ -1007,7 +1007,7 @@
     "shortDescription": "Умные весы с анализом состава тела.",
     "description": "Измерение веса, % жира, мышечной массы, воды, синхронизация по Bluetooth.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/scale.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/scale.jpg"
     ],
     "categories": ["Гаджеты"],
     "tags": ["scale", "fitness", "bluetooth"],
@@ -1030,7 +1030,7 @@
     "shortDescription": "Компьютер для велосипеда с GPS и сенсорным экраном.",
     "description": "Экран 2.7\", GPS/GLONASS, пульсометр, синхронизация с Strava, время работы 15 ч.",
     "images": [
-      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/bikecomp.jpeg"
+      "https://raw.githubusercontent.com/fllopperr/estore-data/main/images/bikecomp.jpg"
     ],
     "categories": ["Гаджеты"],
     "tags": ["bike", "gps", "fitness"],
